@@ -22,6 +22,7 @@
 /YYGAdverts
 /YYGMacros
 /YYGUtils
+/tmp
 
 # Windows specific files
 Thumbs.db
@@ -29,3 +30,6 @@ Desktop.ini
 
 # macOS specific files
 .DS_Store
+
+# Needed by Stitch
+sprites/.stitch
