@@ -1,0 +1,31 @@
+# GameMaker Studio 2 specific files
+*.yyp
+*.yyp.backup
+*.yyp.swp
+*.yyp-bak
+*.project.gmx
+*.project.gmx.bak
+*.yws
+*.yyz
+
+# GameMaker Studio 2 generated files
+/.vscode
+/Export
+/GameAnalytics
+/GMEdit
+/GMS2IDE
+/GameMakerServer
+/IAP
+/Ios
+/Android
+/UWP
+/YYGAdverts
+/YYGMacros
+/YYGUtils
+
+# Windows specific files
+Thumbs.db
+Desktop.ini
+
+# macOS specific files
+.DS_Store
