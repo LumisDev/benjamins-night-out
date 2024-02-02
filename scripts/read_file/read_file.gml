@@ -2,7 +2,6 @@
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 pour plus d’informations
 function read_file(_filename){
 
-
 	var _file_content;
 
 	// Check if the file exists

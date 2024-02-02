@@ -15,8 +15,11 @@
     {"name":"Remarques","order":13,"path":"folders/Remarques.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
+    {"name":"Newgrounds GMS2 API","order":1,"path":"folders/Extensions/Newgrounds GMS2 API.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"parse_json","order":1,"path":"scripts/parse_json/parse_json.yy",},
+    {"name":"oCloudSaveLoader","order":2,"path":"objects/oCloudSaveLoader/oCloudSaveLoader.yy",},
+    {"name":"NGio_CS_library","order":1,"path":"scripts/NGio_CS_library/NGio_CS_library.yy",},
   ],
 }
