@@ -1,0 +1,2 @@
+*.yy filter=lfs diff=lfs merge=lfs -text
+*.gml filter=lfs diff=lfs merge=lfs -text
