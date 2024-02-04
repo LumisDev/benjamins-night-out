@@ -4,7 +4,6 @@
     {"name":"Chronologies","order":8,"path":"folders/Chronologies.yy",},
     {"name":"Courbes d’animation","order":12,"path":"folders/Courbes d’animation.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
-    {"name":"Newgrounds GMS2 API","order":1,"path":"folders/Extensions/Newgrounds GMS2 API.yy",},
     {"name":"Objets","order":9,"path":"folders/Objets.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
     {"name":"Pièces","order":10,"path":"folders/Pièces.yy",},
@@ -20,7 +19,6 @@
   ],
   "ResourceOrderSettings": [
     {"name":"parse_json","order":1,"path":"scripts/parse_json/parse_json.yy",},
-    {"name":"oCloudSaveLoader","order":2,"path":"objects/oCloudSaveLoader/oCloudSaveLoader.yy",},
-    {"name":"NGio_CS_library","order":1,"path":"scripts/NGio_CS_library/NGio_CS_library.yy",},
+    {"name":"oSoundManager","order":1,"path":"objects/oSoundManager/oSoundManager.yy",},
   ],
 }

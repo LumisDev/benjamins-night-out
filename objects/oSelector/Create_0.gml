@@ -10,10 +10,10 @@ function set_options(_index){
 	}
 }
 function get_sound_status(){
-	if sound_on == 1{
+	if oSoundManager.sound_on == 1{
 		return "Sound on";
 	}else{
 		return "Sound off";
 	}
 }
-sound_on = 1;
+audio_play_sound(sTheme, 1, true);

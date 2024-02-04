@@ -16,8 +16,14 @@ if (keyboard_check_pressed(vk_enter) or keyboard_check_pressed(vk_space)) {
             break;
         case 1:
             // Action for Option 2
-			sound_on ^= 1;
+			oSoundManager.sound_on ^= 1;
             break;
         // Add more cases as needed
     }
+}
+
+if oSoundManager.sound_on == 1 {
+	audio_sound_gain(sTheme, 1, 1);
+} else {
+	audio_sound_gain(sTheme, 0, 1);
 }
